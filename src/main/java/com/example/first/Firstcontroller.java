@@ -9,7 +9,7 @@ public class Firstcontroller {
 
     @RequestMapping("/hellos")
     public String hello(){
-        return "hello himashi";
+        return "hello himashi eranga";
     }
     
 }
